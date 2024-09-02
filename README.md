@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+![Wallpaper](GitHub.png)
 # Blog-Marshal
 A Blog app of the new age!
 =======
