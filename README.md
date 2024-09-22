@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+![Wallpaper](GitHub.jpg)
+>>>>>>> 48a3f76419ea9353d9d9ff8048b8e1d959fd53ef
 # Blog-Marshal
 A Blog app of the new age!
 =======

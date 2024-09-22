@@ -28,8 +28,10 @@ export async function GET() {
       },
     });
   }
-  
-return NextResponse.redirect("http://localhost:3000/dashboard");
 
-  
+  return NextResponse.redirect(
+    process.env.NODE_ENV === "development"
+      ? "http://localhost:3000/dashboard"
+      : " https://blog-marshal-seven.vercel.app/dashboard"
+  );
 }
